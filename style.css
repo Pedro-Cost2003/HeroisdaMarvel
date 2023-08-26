@@ -1,0 +1,26 @@
+
+main{
+  width: 600px;
+  background-color: wheat;
+  text-align: justify;
+  margin:auto;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+body{
+  background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(230, 7, 7), rgb(29, 8, 83));
+}
+#principal{
+  color: wheat;
+  background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(230, 7, 7), rgb(29, 8, 83));
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+a{
+  color: rgba(0, 0, 0, 0.958);
+  font-size: 25px;
+  padding: 260px;
+}
